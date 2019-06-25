@@ -1,3 +1,2 @@
-Django Job Portal Under Construction
+:construction: Django Job Portal Under Construction :construction:
 
-:construction:
